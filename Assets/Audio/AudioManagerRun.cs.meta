@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 29e789b5f49190047a1826d882aa2252
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonHover: {instanceID: 0}
+  - doorClose: {instanceID: 0}
+  - doorOpen: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - laser: {instanceID: 0}
+  - spell: {fileID: 8300000, guid: 23c3a12547f428d4fb1c9663f419d2e6, type: 3}
+  - swoosh: {fileID: 8300000, guid: 442314747e8a0bc4dbf2c182e09bac2d, type: 3}
+  - trumpets: {instanceID: 0}
+  - zap: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
